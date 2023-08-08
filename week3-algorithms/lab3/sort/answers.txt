@@ -1,0 +1,16 @@
+sort1 uses: Bubble sort
+
+How do you know?: Bubble sort has an upper bound n^2, and a lower bound of n. This difference becomes more apparent in the larger
+data sets. In the largest data set, there is a big variance between the time it takes sort1 to evaluate the sorted data v. how long it takes sort1
+to evaluate the unsorted data set.
+
+sort2 uses: Merge sort
+
+How do you know?: Sort2 is consistently the fastest algorithm of the three. Sort2 performs consistently on both the sorted and unsorted data sets,
+and outperforms the other two sorting data sets on the larger data sets.
+
+sort3 uses: Selection sort
+
+How do you know?: It performs consistently in all of the data sets for both sorted and unsorted data sets.
+It performs more poorly than the other programs as the data sets get larger. Performs equally on both the large sorted data set
+and the large unsorted data sets.
